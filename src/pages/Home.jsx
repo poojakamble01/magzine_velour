@@ -58,7 +58,7 @@ export default function Home() {
           <Link to="/looks" className="btn">
             Explore The Lookbook
           </Link>
-          <Link to="/capsule" className="btn btn-secondary">
+          <Link to="/capsule" className="btn">
             Capsule Guide
           </Link>
         </div>
